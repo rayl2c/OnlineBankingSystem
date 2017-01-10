@@ -63,7 +63,7 @@ if(!isset($_SESSION['customer_login']))
             <p>Address: <?php echo $address;?></p>
             
         </div>
-               <?php include 'footer.php';?>
+               <?php include 'footer.php';?> 
             
     </body>
 </html>
