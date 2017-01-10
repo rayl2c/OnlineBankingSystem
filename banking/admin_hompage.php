@@ -34,5 +34,5 @@ if(!isset($_SESSION['admin_login']))
         </div>
         </div>
         <?php include 'footer.php';?>
-    </body>
+    </body> 
 </html>
