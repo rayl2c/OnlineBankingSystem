@@ -21,7 +21,7 @@ if(!isset($_SESSION['customer_login']))
    text-align: center;
 }
 </style>
-    </head>
+     </head>
         <?php include 'header.php' ?>
         <div class='content_customer'>
            <?php include 'customer_navbar.php'?>
