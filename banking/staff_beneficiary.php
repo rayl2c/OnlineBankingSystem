@@ -67,7 +67,7 @@ $result=  mysql_query($sql) or die(mysql_error());
                         </tr>
                     </table>
                </form>
-            </div>
+            </div> 
     <?php include 'footer.php'?>
 
 
