@@ -60,4 +60,4 @@ $result=  mysql_query($sql) or die(mysql_error());
                     </table>
                </form>
 </div>
-    <?php include 'footer.php'?>
+    <?php include 'footer.php'?> 
