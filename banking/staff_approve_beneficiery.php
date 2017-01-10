@@ -15,4 +15,4 @@ if(isset($_REQUEST['submit_id']))
     
    echo '<script>alert("Beneficiary status ACTIVE ");';
    echo 'window.location= "staff_beneficiary.php";</script>';
-}
+} 
