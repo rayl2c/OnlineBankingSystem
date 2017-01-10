@@ -56,7 +56,7 @@ $result=  mysql_query($sql) or die(mysql_error()); ?>
                             echo "<td>".$rws[6]."</td>";
                             echo "<td>".$rws[7]."</td>";
                            
-                            echo "</tr>";
+                            echo "</tr>"; 
                         } ?>
 </table>
     </div>
