@@ -28,7 +28,7 @@ if(!isset($_SESSION['customer_login']))
     font-weight:bold;
 }
 
-        </style>
+         </style>
     </head>
         <?php include 'header.php' ?>
         <div class='content_customer'>
