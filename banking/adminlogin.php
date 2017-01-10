@@ -51,7 +51,7 @@ if(isset($_REQUEST['submitBtn'])){
     else
         header('location:adminlogin.php');      
 }
-}
+} 
 else {
     header('location:admin_hompage.php');
 }
