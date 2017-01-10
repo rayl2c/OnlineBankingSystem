@@ -64,6 +64,6 @@ if(!isset($_SESSION['customer_login']))
         echo "<th>Requests</th><th>Status</th>";
         echo "<tr><td>ATM Card Status: </td><td>$atm_status</td></tr>";
         echo "<tr><td>Cheque Book Status: </td><td>$c_status</td></tr>";
-            echo "</table>"; }?>
+            echo "</table>"; }?> 
 
     <?php include 'footer.php';?>
