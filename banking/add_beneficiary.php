@@ -36,7 +36,7 @@ if(!isset($_SESSION['customer_login']))
     <form action='add_beneficiary_process.php' method='post'>
         <br><br>
         <h3 style="text-align:center;color:#2E4372;"><u>Add Beneficiary</u></h3>
-        <table align="center">
+        <table align="center"> 
             
             <tr><td><span class="heading">Payee Name: </span></td><td><input type='text' name='name' required></td></tr>
             <tr><td><span class="heading">Account No: </span></td><td><input type='text' name='account_no' required></td></tr>
