@@ -84,7 +84,7 @@ if(!isset($_SESSION['admin_login']))
                 </tr>
                 <tr>
                     <td>Password</td>
-                    <td><input type="password" name="staff_pwd" required=""/></td>
+                    <td><input type="password" name="staff_pwd" required=""/></td> 
                 </tr>
                 
                 <tr >
